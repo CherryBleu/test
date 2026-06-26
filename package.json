@@ -1,0 +1,17 @@
+{
+  "name": "oa-school-ai-review-test-repo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal no-dependency repo for testing OA School AI source review.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "oa-school",
+    "ai-review",
+    "test"
+  ],
+  "license": "MIT"
+}
